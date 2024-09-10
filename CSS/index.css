@@ -1,0 +1,22 @@
+  
+div {
+    width: 60%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #dbf3d9;
+    border: 2px solid #795353;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration-color: yellowgreen;
+    image:html,css,js.png
+}
+
+button {
+    background-color: #3498db;     
+    color: rgb(86, 94, 158);                  
+    padding: 10px 20px;
+
+button:hover {
+    background-color: #0c52cb;
+}
+
